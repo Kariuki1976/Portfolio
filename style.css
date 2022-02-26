@@ -1,9 +1,26 @@
 * {
     margin: 0;
-    padding: 0;
+    padding: ;
     height: max-content;
 }
 
 .section1 {
     border: 1px solid red;
+}
+
+ul {
+    border: 2px solid green;
+    display: flex;
+    justify-content: space-between;
+    list-style: none;
+    height: 50px;
+    margin-top: -60px;
+    margin-right: 50px;
+    margin-left: 900px;
+}
+
+.brandname {
+    border: 1px solid blue;
+    margin-left: 300px;
+    font-size: 60px;
 }
