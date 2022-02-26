@@ -41,12 +41,14 @@ ul {
 .name {
     border: 2px solid red;
     margin-bottom: 100px;
+    margin-left: 100px;
 }
 
 .location {
     border: 2px solid blue;
     margin-bottom: 100px;
     font-size: 30px;
+    border-left: 2px solid red;
 }
 
 #twitter {
@@ -71,5 +73,9 @@ ul {
 
 .developer {
     border: 1px solid blue;
-    font-size: 50px;
+    font-size: 30px;
+}
+
+.dev {
+    padding: 20px;
 }
