@@ -174,3 +174,30 @@ ul {
     border-right: 2px solid grey;
     margin-left: 240px;
 }
+
+.resume {
+    border: 1px solid red;
+    margin-right: 650px;
+    margin-top: 20px;
+}
+
+.emmanuel {
+    border: 3px solid blue;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 20px;
+    color: white;
+    font-weight: bolder;
+}
+
+.melancholic {
+    border: 3px solid green;
+    font-weight: 200px;
+    color: white;
+    margin-top: 100px;
+}
+
+.view {
+    border: 2px solid red;
+    margin-top: 260px;
+    border-radius: 5px;
+}
