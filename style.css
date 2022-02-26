@@ -106,3 +106,27 @@ ul {
     display: flex;
     justify-content: center;
 }
+
+.personal {
+    display: flex;
+    justify-content: space-around;
+    margin-top: 50px;
+    font-size: 30px;
+    color: white;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.born {
+    color: grey;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.experience {
+    color: grey;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.date {
+    color: grey;
+    font-family: 'Times New Roman', Times, serif;
+}
