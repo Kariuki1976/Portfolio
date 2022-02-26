@@ -153,14 +153,15 @@ ul {
     font-size: 30px;
     font-family: 'Times New Roman', Times, serif;
     color: white;
-    border: 1px solid red;
+    /* border: 1px solid red; */
     margin-top: 50px;
     font-weight: bolder;
     padding-top: 20px;
+    /* margin-bottom: 60px; */
 }
 
 .about {
-    border: 1px solid blue;
+    /* border: 1px solid blue; */
     text-align: center;
     margin-top: 100px;
     color: white;
@@ -170,6 +171,6 @@ ul {
 }
 
 .icons {
-    border: 2px solid grey;
+    border-right: 2px solid grey;
     margin-left: 240px;
 }
