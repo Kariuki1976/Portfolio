@@ -1,0 +1,9 @@
+* {
+    margin: 0;
+    padding: 0;
+    height: max-content;
+}
+
+.section1 {
+    border: 1px solid red;
+}
