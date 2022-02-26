@@ -29,3 +29,30 @@ ul {
     font-weight: bolder;
     color: white;
 }
+
+.section2 {
+    border: 1px solid red;
+    height: 600px;
+    display: flex;
+    justify-content: space-between;
+}
+
+.name {
+    border: 2px solid red;
+}
+
+.location {
+    border: 2px solid blue;
+}
+
+#twitter {
+    border: 2px solid green;
+}
+
+#linkedin {
+    border: 1px solid red;
+}
+
+#gmail {
+    border: 1px solid red;
+}
