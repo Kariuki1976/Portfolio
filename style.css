@@ -32,27 +32,44 @@ ul {
 
 .section2 {
     border: 1px solid red;
-    height: 600px;
+    height: 500px;
     display: flex;
     justify-content: space-between;
+    align-items: flex-end;
 }
 
 .name {
     border: 2px solid red;
+    margin-bottom: 100px;
 }
 
 .location {
     border: 2px solid blue;
+    margin-bottom: 100px;
+    font-size: 30px;
 }
 
 #twitter {
     border: 2px solid green;
+    height: 25px;
 }
 
 #linkedin {
     border: 1px solid red;
+    height: 25px;
 }
 
 #gmail {
     border: 1px solid red;
+    height: 25px;
+}
+
+.slim {
+    border: 1px solid green;
+    font-size: 50px;
+}
+
+.developer {
+    border: 1px solid blue;
+    font-size: 50px;
 }
