@@ -1,26 +1,28 @@
 * {
     margin: 0;
-    padding: ;
+    padding: 0;
     height: max-content;
 }
 
 .section1 {
-    border: 1px solid red;
+    border: 1px solid blue;
 }
 
 ul {
-    border: 2px solid green;
+    /* border: 2px solid green; */
     display: flex;
     justify-content: space-between;
     list-style: none;
     height: 50px;
-    margin-top: -60px;
-    margin-right: 50px;
+    font-size: 20px;
+    margin-top: -50px;
+    margin-right: 100px;
     margin-left: 900px;
 }
 
 .brandname {
-    border: 1px solid blue;
+    /* border: 1px solid blue; */
     margin-left: 300px;
     font-size: 60px;
+    font-weight: bolder;
 }
