@@ -47,6 +47,7 @@ ul {
     margin-left: 100px;
     color: white;
     font-family: 'Times New Roman', Times, serif;
+    font-weight: bolder;
 }
 
 .location {
@@ -57,6 +58,7 @@ ul {
     margin-right: 100px;
     color: white;
     font-family: 'Times New Roman', Times, serif;
+    font-weight: bold;
 }
 
 #twitter {
@@ -86,4 +88,21 @@ ul {
 
 .dev {
     padding: 20px;
+}
+
+.section3 {
+    height: 800px;
+    background: #161D26;
+    border: 2px solid red;
+}
+
+.manu {
+    border: 1px solid red;
+    margin-top: -350px;
+    height: 700px;
+}
+
+.know {
+    display: flex;
+    justify-content: center;
 }
