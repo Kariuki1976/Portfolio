@@ -91,13 +91,13 @@ ul {
 }
 
 .section3 {
-    height: 800px;
+    height: 1500px;
     background: #161D26;
     border: 2px solid red;
 }
 
 .manu {
-    border: 1px solid red;
+    /* border: 1px solid red; */
     margin-top: -350px;
     height: 700px;
 }
