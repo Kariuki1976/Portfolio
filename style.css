@@ -130,3 +130,21 @@ ul {
     color: grey;
     font-family: 'Times New Roman', Times, serif;
 }
+
+.description {
+    border: 1px solid red;
+    display: flex;
+    justify-content: space-between;
+}
+
+#project {
+    height: 50px;
+}
+
+#happy {
+    height: 50px;
+}
+
+#Award {
+    height: 50px;
+}
