@@ -287,3 +287,31 @@ ul {
     height: 30px;
     width: 100px;
 }
+
+.section4 {
+    height: 700px;
+}
+
+.ratings {
+    position: absolute;
+    /* top: 50%;
+    left: 50%; */
+    display: flex;
+    transform: translate(-50%, -50%);
+}
+
+.ratings label {
+    display: block;
+    cursor: pointer;
+    width: 50px;
+    background: #ccc;
+}
+
+.ratings label:before {
+    content: '\f005';
+    font-family: fontAwesome;
+}
+
+.ratings input {
+    display: none;
+}
