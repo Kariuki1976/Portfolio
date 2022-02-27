@@ -4,6 +4,85 @@
     height: max-content;
 }
 
+@media only screen and (mix-width: 768px) {
+    .col-1 {
+        width: 8.33%;
+    }
+    .col-2 {
+        width: 16.66%;
+    }
+    .col-3 {
+        width: 25%;
+    }
+    .col-4 {
+        width: 33.33%;
+    }
+    .col-5 {
+        width: 41.66%;
+    }
+    .col-6 {
+        width: 50%;
+    }
+    .col-7 {
+        width: 58.33%;
+    }
+    .col-8 {
+        width: 66.66%;
+    }
+    .col-9 {
+        width: 75%;
+    }
+    .col-10 {
+        width: 83.33%;
+    }
+    .col-11 {
+        width: 91.66%;
+    }
+    .col-12 {
+        width: 100%;
+    }
+}
+
+@media only screen and (mix-width: 768px) {
+    /* For tablets: */
+    .col-s-1 {
+        width: 8.33%;
+    }
+    .col-s-2 {
+        width: 16.66%;
+    }
+    .col-s-3 {
+        width: 25%;
+    }
+    .col-s-4 {
+        width: 33.33%;
+    }
+    .col-s-5 {
+        width: 41.66%;
+    }
+    .col-s-6 {
+        width: 50%;
+    }
+    .col-s-7 {
+        width: 58.33%;
+    }
+    .col-s-8 {
+        width: 66.66%;
+    }
+    .col-s-9 {
+        width: 75%;
+    }
+    .col-s-10 {
+        width: 83.33%;
+    }
+    .col-s-11 {
+        width: 91.66%;
+    }
+    .col-s-12 {
+        width: 100%;
+    }
+}
+
 .section1 {
     /* border: 1px solid blue; */
     background: #161D26;
@@ -91,9 +170,9 @@ ul {
 }
 
 .section3 {
-    height: 1500px;
+    height: 1300px;
     background: #161D26;
-    border: 2px solid red;
+    /* border: 2px solid red; */
 }
 
 .manu {
@@ -132,7 +211,7 @@ ul {
 }
 
 .description {
-    border: 1px solid red;
+    /* border: 1px solid red; */
     display: flex;
     justify-content: space-between;
 }
@@ -176,13 +255,13 @@ ul {
 }
 
 .resume {
-    border: 1px solid red;
-    margin-right: 650px;
+    /* border: 1px solid red; */
+    margin-right: 600px;
     margin-top: 20px;
 }
 
 .emmanuel {
-    border: 3px solid blue;
+    /* border: 3px solid blue; */
     font-family: 'Times New Roman', Times, serif;
     font-size: 20px;
     color: white;
@@ -190,14 +269,21 @@ ul {
 }
 
 .melancholic {
-    border: 3px solid green;
-    font-weight: 200px;
+    /* border: 3px solid grey; */
+    font-weight: 100px;
     color: white;
     margin-top: 100px;
+    border-radius: 5px;
+    font-family: 'Times New Roman', Times, serif;
+    font-style: italic;
 }
 
 .view {
-    border: 2px solid red;
+    border: 2px solid grey;
     margin-top: 260px;
     border-radius: 5px;
+    background: #161D26;
+    color: white;
+    height: 30px;
+    width: 100px;
 }
