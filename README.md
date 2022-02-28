@@ -5,11 +5,17 @@ By Emmanuel Kariuki
 
 ### **Table of Contents**
 -Description
+
 -Live link
+
 -Installation Requirements
+
 -Technology used
+
 -License
+
 -Author
+
 -Contributors
 ---
 ## **Description**
@@ -17,12 +23,12 @@ By Emmanuel Kariuki
 This is a webpage that describes about me ,my education,skills,and languages that I am best at.
 ---
 
-### **Preview**
-(Image/Screenshot .png)
+<!-- ### **Preview**
+(Image/Screenshot .png) -->
 ---
 ### **Live link**
 
-[live link]()
+[live link](https://kariuki1976.github.io/Portfolio/)
 ---
 
 #### **Get Started**
@@ -35,11 +41,13 @@ To get a local copy to your machine.
 
 #### **Requirements**
 
--A computer,tablet or mobile phone.
--Internet and power availability and access.
+-.A computer,tablet or mobile phone.
+
+-.Internet and power availability and access.
 
 ### **Technologies used**
 Html for structure. 
+
 Css for styling.
 ---
 
@@ -55,6 +63,7 @@ THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLI
 ---
 ### **Author Info**
 Author: Emmanuel Kariuki
+
 Gmail:[gmail](mailto:manuelmkaris@gmail.com)
 ---
 
