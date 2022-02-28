@@ -289,29 +289,8 @@ ul {
 }
 
 .section4 {
-    height: 700px;
+    height: 900px;
+    background: #212833;
 }
 
-.ratings {
-    position: absolute;
-    /* top: 50%;
-    left: 50%; */
-    display: flex;
-    transform: translate(-50%, -50%);
-}
-
-.ratings label {
-    display: block;
-    cursor: pointer;
-    width: 50px;
-    background: #ccc;
-}
-
-.ratings label:before {
-    content: '\f005';
-    font-family: fontAwesome;
-}
-
-.ratings input {
-    display: none;
-}
+#my {}
