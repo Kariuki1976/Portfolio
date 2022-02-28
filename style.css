@@ -289,9 +289,9 @@ ul {
 }
 
 .section4 {
-    height: 900px;
+    height: 910px;
     background: #212833;
-    border: 1px solid red;
+    /* border: 1px solid red; */
 }
 
 #my {
@@ -300,8 +300,9 @@ ul {
     font-family: 'Times New Roman', Times, serif;
     /* border: 1px solid red; */
     margin-left: 250px;
-    margin-top: 50px;
+    /* margin-top: 50px; */
     color: white;
+    padding-top: 50px;
 }
 
 .banter {
@@ -370,4 +371,10 @@ ul {
     border: 2px solid grey;
     border-radius: 5px;
     margin-top: 20px;
+}
+
+.section5 {
+    height: 800px;
+    border: 1px solid red;
+    background: #161D26;
 }
