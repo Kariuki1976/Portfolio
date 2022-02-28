@@ -298,20 +298,20 @@ ul {
     font-size: 50px;
     font-weight: bold;
     font-family: 'Times New Roman', Times, serif;
-    border: 1px solid red;
+    /* border: 1px solid red; */
     margin-left: 250px;
     margin-top: 50px;
     color: white;
 }
 
 .banter {
-    border: 2px solid red;
+    /* border: 2px solid red; */
     display: flex;
     justify-content: space-between;
 }
 
 .hobby {
-    border-right: 2px solid grey;
+    /* border-right: 2px solid grey; */
     margin-left: 270px;
     margin-bottom: 20px;
 }
@@ -322,13 +322,13 @@ ul {
 
 .posses {
     margin-right: 400px;
-    border: 1px solid green;
+    /* border: 1px solid green; */
     margin-top: 50px;
     color: white;
 }
 
 .music {
-    border: 1px solid blue;
+    border-right: 2px solid grey;
 }
 
 .personally {
@@ -336,4 +336,24 @@ ul {
     font-family: 'Times New Roman', Times, serif;
     /* font-weight: 100px; */
     color: white;
+}
+
+.education {
+    border-left: 1px solid grey;
+    text-align: center;
+    margin-left: 377px;
+    margin-right: 1200px;
+    color: white;
+}
+
+.independent {
+    border: 1px solid green;
+}
+
+.secretarial {
+    border: 1px solid blue;
+}
+
+.skills {
+    color: grey;
 }
