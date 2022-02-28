@@ -398,3 +398,25 @@ ul {
     color: white;
     padding-left: 30px;
 }
+
+.parent {
+    display: flex;
+    border: 1px solid green;
+    padding-top: 20px;
+    justify-content: space-between;
+    margin-left: 220px;
+    color: white;
+}
+
+#insurance {
+    height: 200px;
+}
+
+.website {
+    margin-right: 1250px;
+    color: white;
+}
+
+#text {
+    color: grey;
+}
