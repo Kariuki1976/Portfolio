@@ -386,3 +386,15 @@ ul {
     font-size: 70px;
     color: white;
 }
+
+.collection {
+    border-left: 2px solid grey;
+    padding-top: 100px;
+    margin-left: 380px;
+}
+
+#collection {
+    /* border: 1px solid red; */
+    color: white;
+    padding-left: 30px;
+}
