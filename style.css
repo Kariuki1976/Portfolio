@@ -433,7 +433,17 @@ ul {
 }
 
 .footer {
-    height: 80px;
+    height: 60px;
     border: 1px solid red;
     background: #212833;
+    display: flex;
+    justify-content: space-between;
+    padding-top: 30px;
+    color: white;
+}
+
+#cons {
+    color: gold;
+    border-right: 2px solid grey;
+    padding: 10px;
 }
