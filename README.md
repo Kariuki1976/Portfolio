@@ -3,7 +3,7 @@
 By Emmanuel Kariuki
 ---
 
-### Table of Contents
+### **Table of Contents**
 -Description
 -Live link
 -Installation Requirements
@@ -12,38 +12,38 @@ By Emmanuel Kariuki
 -Author
 -Contributors
 ---
-## Description
+## **Description**
 
 This is a webpage that describes about me ,my education,skills,and languages that I am best at.
 ---
 
-### Preview
-[Image](Image/Screenshot .png)
+### **Preview**
+(Image/Screenshot .png)
 ---
-### Live link
+### **Live link**
 
 [live link]()
 ---
 
-#### Get Started
+#### **Get Started**
 
 To get a local copy to your machine.
 ---
 
-#### Setup
+#### **Setup**
 -Download or clone files from this repo.Repository link:[Portfolio](https://github.com/Kariuki1976/Portfolio.git)
 
-#### Requirements
+#### **Requirements**
 
 -A computer,tablet or mobile phone.
 -Internet and power availability and access.
 
-### Technologies used
+### **Technologies used**
 Html for structure. 
 Css for styling.
 ---
 
-### License
+### **License**
 
 MIT Copyright (c) 2021 [Emmanuel Kariuki]
 
@@ -53,10 +53,10 @@ The above copyright notice and this permission notice shall be included in all c
 
 THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
 ---
-### Author Info
+### **Author Info**
 Author: Emmanuel Kariuki
 Gmail:[gmail](mailto:manuelmkaris@gmail.com)
 ---
 
-### Contributors
+### **Contributors**
 Design by: Emmanuel
