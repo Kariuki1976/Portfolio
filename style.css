@@ -344,16 +344,30 @@ ul {
     margin-left: 377px;
     margin-right: 1200px;
     color: white;
+    font-family: 'Times New Roman', Times, serif;
 }
 
 .independent {
-    border: 1px solid green;
+    /* border: 1px solid green; */
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bold;
 }
 
 .secretarial {
-    border: 1px solid blue;
+    /* border: 1px solid blue; */
+    font-weight: bold;
 }
 
 .skills {
     color: grey;
+    font-weight: bold;
+}
+
+.download {
+    background: #212833;
+    color: white;
+    height: 35px;
+    border: 2px solid grey;
+    border-radius: 5px;
+    margin-top: 20px;
 }
