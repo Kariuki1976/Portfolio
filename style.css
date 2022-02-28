@@ -434,7 +434,7 @@ ul {
 
 .footer {
     height: 60px;
-    border: 1px solid red;
+    /* border: 1px solid red; */
     background: #212833;
     display: flex;
     justify-content: space-between;
